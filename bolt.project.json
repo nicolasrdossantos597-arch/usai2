@@ -1,0 +1,9 @@
+{
+  "name": "adapted-nextjs-project",
+  "framework": "nextjs",
+  "start": "npm run dev",
+  "build": "npm run build",
+  "install": "npm install",
+  "entry": "package.json",
+  "notes": "Projeto adaptado para ser aceito pelo Bolt.new. Remova node_modules antes de subir."
+}
